@@ -33,6 +33,9 @@ Esse projeto está sendo desenvolvido com as seguintes tecnologias (até o momen
 ## 💻 Projeto
 
 Projeto para praticar e aprender novos comandos via curso "Explorer" da Rocketseat, QUando terminado terá uma descrição mais elaborada.
+<p aling="center">
+<img alt="" src=".github/Mario_Gameplay.gif" width="100%">
+</p>
 
 ## 🔖 Layout
 
@@ -40,8 +43,6 @@ Ainda sendo desenvolvido (não terminado)
 
 ## :memo: Licença
 
-Privada
+Nenhuma
 
 ---
-
-Feito com ♥ junto à Rocketseat via curso online :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)

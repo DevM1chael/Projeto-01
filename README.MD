@@ -1,7 +1,7 @@
 <h1 align="center"> Dev Michael</h1>
 
 <p align="center">
-programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
+Programa exclusivo de ensino fornecido pela Rocketseat.
 </p>
 
 <p align="center">
@@ -33,6 +33,7 @@ Esse projeto está sendo desenvolvido com as seguintes tecnologias (até o momen
 ## 💻 Projeto
 
 Projeto para praticar e aprender novos comandos via curso "Explorer" da Rocketseat, QUando terminado terá uma descrição mais elaborada.
+
 ## 🔖 Layout
 
 Ainda sendo desenvolvido (não terminado)

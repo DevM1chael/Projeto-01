@@ -18,12 +18,12 @@ programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 <br>
 
 <p align="center">
-  <img alt="Projeto DevPessoal" src=".github/preview2.jpg" width="100%">
+  <img alt="Projeto 01 (Explorer)" src=".github/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+Esse projeto está sendo desenvolvido com as seguintes tecnologias (até o momento):
 
 - HTML e CSS
 - JavaScript
@@ -32,15 +32,14 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Página de portofóli pessoal, meu primeiro projeto realizado com um curso inicial.
-
+Projeto para praticar e aprender novos comandos via curso "Explorer" da Rocketseat, QUando terminado terá uma descrição mais elaborada.
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1187422022288947321). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Ainda sendo desenvolvido (não terminado)
 
 ## :memo: Licença
 
-Esse projeto está sob a licença MIT.
+Privada
 
 ---
 

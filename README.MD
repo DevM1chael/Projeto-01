@@ -37,7 +37,7 @@ Projeto para praticar e aprender novos comandos via curso "Explorer" da Rocketse
 <p aling="center">
 <img alt="" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*Q5_t-R0xRs07wW1Kf8rCSw.gif" width="100%">
 </p>
-## 🔖 Layout
+##🔖 Layout
 
 Ainda sendo desenvolvido (não terminado)
 

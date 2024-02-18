@@ -19,7 +19,7 @@ h1 span {
   font-weight: bold;
 }
 
-span {
+span, a {
   color: #ff9900;
 }
 
@@ -27,4 +27,8 @@ p {
   color: #7d7987;
   font-size: 14px;
   line-height: 28px;
+}
+
+#footer a {
+  color: #ff9900;
 }

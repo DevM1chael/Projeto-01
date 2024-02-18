@@ -26,7 +26,6 @@ Programa exclusivo de ensino fornecido pela Rocketseat.
 Esse projeto está sendo desenvolvido com as seguintes tecnologias (até o momento):
 
 - HTML e CSS
-- JavaScript
 - Git e Github
 - Figma
 

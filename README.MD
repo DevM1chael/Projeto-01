@@ -42,6 +42,7 @@ Baseado em um projeto pronto do curso "Explorer" no figma, pode ser acessado pel
 </p>
 ## :memo: Licença
 
-Nenhuma
+Esse projeto está sob a licença MIT.
 
 ---
+Feito com ♥ junto à Rocketseat via curso online :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)

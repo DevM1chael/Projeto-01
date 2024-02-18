@@ -17,8 +17,8 @@ Programa exclusivo de ensino fornecido pela Rocketseat.
 
 <br>
 
-<p align="center">
-  <img alt="Projeto 01 (Explorer)" src=".github/preview.jpg" width="100%">
+<p aling="center">
+<img alt="" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*Q5_t-R0xRs07wW1Kf8rCSw.gif" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -32,15 +32,14 @@ Esse projeto está sendo desenvolvido com as seguintes tecnologias (até o momen
 
 ## 💻 Projeto
 
-Projeto para praticar e aprender novos comandos via curso "Explorer" da Rocketseat, QUando terminado terá uma descrição mais elaborada.
+Projeto para praticar e aprender novos comandos via curso "Explorer" da Rocketseat, pode servir como um site de propaganda para micro-empreendedores que trabalham com móveis ou marcenaria personalizada.
 
-<p aling="center">
-<img alt="" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*Q5_t-R0xRs07wW1Kf8rCSw.gif" width="100%">
-</p>
 ##🔖 Layout
 
-Ainda sendo desenvolvido (não terminado)
-
+Baseado em um projeto pronto do curso "Explorer" no figma, pode ser acessado pelo link: 
+<p>
+<a target="_blank" href="https://www.figma.com/file/NKg0yDsb2ACy4nqKEtP5Z8/Explorer-Projeto-01-Copy?fuid=1328401879574548361">Figma</a>
+</p>
 ## :memo: Licença
 
 Nenhuma
